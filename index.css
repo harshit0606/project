@@ -1,0 +1,29 @@
+/* 
+font-family: 'Libre Baskerville', serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Acme', sans-serif;
+*/
+
+body {
+  margin: 0;
+  
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  
+  font-family: 'Poppins', sans-serif ;
+}
+
+* {
+  
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  --mainBlack: #020202;
+  --mainWhite: #ffffff;
+  /* --mainWhite: #fdfa56; */
+}
